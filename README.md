@@ -7,9 +7,9 @@ The project works with the data set from Human Activity Recognition Using Smartp
 
 ### The data set includes the following files:
 
-- `README`: Description of the course project and the code `run_analysis.R`
+- `README.md`: Description of the course project and the code `run_analysis.R`
 
-- `codebook.txt`: Shows information about the variables in each data set.
+- `codebook.md`: Shows information about the variables in each data set.
 
 - `mean_std.txt`: Tidy data set of the mean values and standard deviations of the signals with the corresponing activity and subject.
 
