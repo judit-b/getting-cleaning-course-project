@@ -7,7 +7,7 @@ The project works with the data set from Human Activity Recognition Using Smartp
 
 ### The data set includes the following files:
 
-- `README`
+- `README`: Description of the course project and the code `run_analysis.R`
 
 - `codebook.txt`: Shows information about the variables in each data set.
 
@@ -25,7 +25,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 This code loads and cleans the data set, then creates two .txt files for the Course Project of the Getting ans Cleaning Data course.
 
-The script does the followings:
+#### The script does the followings:
 
 1. Loads the data from the working directory into data frames.
 
