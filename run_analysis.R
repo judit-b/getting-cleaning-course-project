@@ -91,5 +91,5 @@ avers <- summarize_each(grouped, funs(mean))
 
 # Save the two datasets, ds and avers into files ds.txt and avers.txt in the 
 # working directory
-write.table(ds, "./mean_std.txt")
-write.table(avers, "./averages.txt")
+write.table(ds, "./mean_std.txt", row.names = FALSE)
+write.table(avers, "./averages.txt", row.names = FALSE)
